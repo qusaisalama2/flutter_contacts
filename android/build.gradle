@@ -26,7 +26,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdk 34
-
+    namespace "com.example.flutter_contacts"
     namespace 'co.quis.flutter_contacts'
 
     compileOptions {
